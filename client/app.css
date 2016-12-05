@@ -61,10 +61,15 @@ html {
   padding-bottom: .75em;
   padding-left: 8em;
   padding-right: 8em;
-  background-color: transparent;
+  /*background-color: transparent;*/
 }
 .hero-button a {
   color: white;
+  background-color: white;
+
+}
+
+.hero-button {
 }
 
 button:hover {
